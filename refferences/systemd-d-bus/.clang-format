@@ -1,0 +1,4 @@
+BasedOnStyle: llvm
+IndentWidth: 6
+TabWidth: 6
+UseTab: Always
