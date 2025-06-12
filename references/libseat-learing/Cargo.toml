@@ -1,0 +1,8 @@
+[package]
+name = "libseat-learing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+input = "0.9.1"
+libseat = "0.2.3"

@@ -1,0 +1,6 @@
+/home/wasabi/workspace/projects/ray/refferences/libseat-learing/target/debug/deps/liblibseat_sys-937b261bd54d48ac.rmeta: /home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/lib.rs /home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/./bindings.rs
+
+/home/wasabi/workspace/projects/ray/refferences/libseat-learing/target/debug/deps/libseat_sys-937b261bd54d48ac.d: /home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/lib.rs /home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/./bindings.rs
+
+/home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/lib.rs:
+/home/wasabi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libseat-sys-0.1.9/src/./bindings.rs:

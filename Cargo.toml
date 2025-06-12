@@ -6,3 +6,7 @@ edition = "2024"
 [dependencies]
 input = "0.9.1"
 libc = "0.2.172"
+libseat = "0.2.3"
+libudev = "0.3.0"
+wayland = "0.0.2"
+xkbcommon = "0.8.0"
